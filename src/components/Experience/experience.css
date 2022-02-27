@@ -62,6 +62,7 @@
   .experience__container {
     gap: 1rem;
     width: var(--container-width-sm);
+    padding: 0 1rem;
   }
 
   .experience__container > div {
