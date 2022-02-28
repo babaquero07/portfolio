@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.9f37cda8.css",
+    "main.css": "/portfolio/static/css/main.f9a41427.css",
     "main.js": "/portfolio/static/js/main.e5f50557.js",
     "static/media/CV.pdf": "/portfolio/static/media/CV.7f122bbd85189e920864.pdf",
     "static/media/profilePicture.png": "/portfolio/static/media/profilePicture.b9a77c96f3ad13eb664c.png",
@@ -12,11 +12,11 @@
     "static/media/MobileFirstBatataBitPlatzi.jpg": "/portfolio/static/media/MobileFirstBatataBitPlatzi.482cb45d9641b729d70a.jpg",
     "static/media/calendarioGridLeonidasEsteban.jpg": "/portfolio/static/media/calendarioGridLeonidasEsteban.dcf1b5b73557a663fd1b.jpg",
     "index.html": "/portfolio/index.html",
-    "main.9f37cda8.css.map": "/portfolio/static/css/main.9f37cda8.css.map",
+    "main.f9a41427.css.map": "/portfolio/static/css/main.f9a41427.css.map",
     "main.e5f50557.js.map": "/portfolio/static/js/main.e5f50557.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f37cda8.css",
+    "static/css/main.f9a41427.css",
     "static/js/main.e5f50557.js"
   ]
 }
