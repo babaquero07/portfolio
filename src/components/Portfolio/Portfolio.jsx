@@ -13,8 +13,8 @@ const Portfolio = () => {
       id: 1,
       image: IMG1,
       title: "SPA Food Recipes [PERN]",
-      github: "#linkRepo",
-      deploy: "#linkDeploy",
+      github: "https://github.com/babaquero07/PI-Food",
+      deploy: "https://food-recipes-one.vercel.app/",
     },
     {
       id: 2,
