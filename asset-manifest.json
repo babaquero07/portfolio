@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f9a41427.css",
-    "main.js": "/portfolio/static/js/main.1280ef68.js",
+    "main.js": "/portfolio/static/js/main.ab091d38.js",
     "static/media/CV.pdf": "/portfolio/static/media/CV.7f122bbd85189e920864.pdf",
     "static/media/profilePicture.png": "/portfolio/static/media/profilePicture.b9a77c96f3ad13eb664c.png",
     "static/media/landingFoodRecipes.jpg": "/portfolio/static/media/landingFoodRecipes.ceb3731929aa87795e1e.jpg",
     "static/media/spotifuLeonidasEsteban.jpg": "/portfolio/static/media/spotifuLeonidasEsteban.f23873956165c3f9497c.jpg",
-    "static/media/inmobilApp.jpg": "/portfolio/static/media/inmobilApp.4c8d6ffc10eb50fcc761.jpg",
+    "static/media/inmobilApp.jpg": "/portfolio/static/media/inmobilApp.56605742d8f43220c09d.jpg",
     "static/media/caboDeLaVela-COL.jpeg": "/portfolio/static/media/caboDeLaVela-COL.c020f5fdc5cdbcd86cd1.jpeg",
     "static/media/PlatziBlogMaster.jpg": "/portfolio/static/media/PlatziBlogMaster.f8372d2af8c2e9e745f3.jpg",
     "static/media/MobileFirstBatataBitPlatzi.jpg": "/portfolio/static/media/MobileFirstBatataBitPlatzi.482cb45d9641b729d70a.jpg",
     "static/media/calendarioGridLeonidasEsteban.jpg": "/portfolio/static/media/calendarioGridLeonidasEsteban.dcf1b5b73557a663fd1b.jpg",
     "index.html": "/portfolio/index.html",
     "main.f9a41427.css.map": "/portfolio/static/css/main.f9a41427.css.map",
-    "main.1280ef68.js.map": "/portfolio/static/js/main.1280ef68.js.map"
+    "main.ab091d38.js.map": "/portfolio/static/js/main.ab091d38.js.map"
   },
   "entrypoints": [
     "static/css/main.f9a41427.css",
-    "static/js/main.1280ef68.js"
+    "static/js/main.ab091d38.js"
   ]
 }
