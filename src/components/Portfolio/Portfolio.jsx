@@ -42,7 +42,7 @@ const Portfolio = () => {
       image: IMG4,
       title: "Spotifu [HTML & CSS (FlexBox)]",
       github: "https://github.com/babaquero07/Spotifu",
-      deploy: "https://github.com/babaquero07/Spotifu",
+      deploy: "https://babaquero07.github.io/Spotifu/",
     },
     {
       id: 6,
