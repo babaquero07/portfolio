@@ -6,15 +6,17 @@ import IMG3 from "../../assets/images/MobileFirstBatataBitPlatzi.jpg";
 import IMG4 from "../../assets/images/spotifuLeonidasEsteban.jpg";
 import IMG5 from "../../assets/images/calendarioGridLeonidasEsteban.jpg";
 import IMG6 from "../../assets/images/inmobilApp.jpg";
+import triviaChallengeIMG from "../../assets/images/triviaChallenge.jpg";
+import everyonesStoreIMG from "../../assets/images/everyOnesStore.jpg";
 
 const Portfolio = () => {
   const projects = [
     {
       id: 1,
-      image: IMG1,
-      title: "SPA Food Recipes [PERN]",
-      github: "https://github.com/babaquero07/PI-Food",
-      deploy: "https://food-recipes-one.vercel.app/",
+      image: triviaChallengeIMG,
+      title: "Trivia Challenge [MERN]",
+      github: "https://github.com/babaquero07/trivia-challenge-client",
+      deploy: "https://trivia-challenge-ten.vercel.app/",
     },
     {
       id: 2,
@@ -25,27 +27,41 @@ const Portfolio = () => {
     },
     {
       id: 3,
+      image: everyonesStoreIMG,
+      title: "E-commerce (Group project) [PERN]",
+      github: "https://github.com/E-commerce-pf",
+      deploy: "https://everyones-store.vercel.app/",
+    },
+    {
+      id: 4,
+      image: IMG1,
+      title: "Food Recipes [PERN]",
+      github: "https://github.com/babaquero07/PI-Food",
+      deploy: "https://food-recipes-one.vercel.app/",
+    },
+    {
+      id: 5,
       image: IMG2,
       title: "Blog [HTML & CSS]",
       github: "https://github.com/babaquero07/blog",
       deploy: "https://babaquero07.github.io/blog/",
     },
     {
-      id: 4,
+      id: 6,
       image: IMG3,
       title: "BatataBit [HTML & CSS]",
       github: "https://github.com/babaquero07/batata-bit",
       deploy: "https://babaquero07.github.io/batata-bit/",
     },
     {
-      id: 5,
+      id: 7,
       image: IMG4,
       title: "Spotifu [HTML & CSS (FlexBox)]",
       github: "https://github.com/babaquero07/Spotifu",
       deploy: "https://babaquero07.github.io/Spotifu/",
     },
     {
-      id: 6,
+      id: 8,
       image: IMG5,
       title: "Calendario [HTML & CSS (GRID)]",
       github: "https://github.com/babaquero07/calendario",
