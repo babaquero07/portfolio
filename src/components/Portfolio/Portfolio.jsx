@@ -30,7 +30,7 @@ const Portfolio = () => {
       image: everyonesStoreIMG,
       title: "E-commerce (Group project) [PERN]",
       github: "https://github.com/E-commerce-pf",
-      deploy: "https://everyones-store.vercel.app/",
+      deploy: "https://respaldo-everyones-store.vercel.app/",
     },
     {
       id: 4,
