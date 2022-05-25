@@ -6,6 +6,8 @@ import IMG3 from "../../assets/images/MobileFirstBatataBitPlatzi.jpg";
 import IMG4 from "../../assets/images/spotifuLeonidasEsteban.jpg";
 import IMG5 from "../../assets/images/calendarioGridLeonidasEsteban.jpg";
 import IMG6 from "../../assets/images/inmobilApp.jpg";
+import IMG7 from "../../assets/images/pokemonStatics.png";
+
 import triviaChallengeIMG from "../../assets/images/triviaChallenge.jpg";
 import everyonesStoreIMG from "../../assets/images/everyOnesStore.jpg";
 
@@ -41,27 +43,34 @@ const Portfolio = () => {
     },
     {
       id: 5,
+      image: IMG7,
+      title: "Pokemon Static [NextJS, TypeScript]",
+      github: "https://github.com/babaquero07/pokemon-static-NextJS",
+      deploy: "https://pokemon-static-gold.vercel.app/",
+    },
+    {
+      id: 6,
       image: IMG2,
       title: "Blog [HTML & CSS]",
       github: "https://github.com/babaquero07/blog",
       deploy: "https://babaquero07.github.io/blog/",
     },
     {
-      id: 6,
+      id: 7,
       image: IMG3,
       title: "BatataBit [HTML & CSS]",
       github: "https://github.com/babaquero07/batata-bit",
       deploy: "https://babaquero07.github.io/batata-bit/",
     },
     {
-      id: 7,
+      id: 8,
       image: IMG4,
       title: "Spotifu [HTML & CSS (FlexBox)]",
       github: "https://github.com/babaquero07/Spotifu",
       deploy: "https://babaquero07.github.io/Spotifu/",
     },
     {
-      id: 8,
+      id: 9,
       image: IMG5,
       title: "Calendario [HTML & CSS (GRID)]",
       github: "https://github.com/babaquero07/calendario",
@@ -83,10 +92,20 @@ const Portfolio = () => {
               </div>
               <h3>{project.title}</h3>
               <div className="portfolio__item-cta">
-                <a href={project.github} className="btn" target="_blank">
+                <a
+                  href={project.github}
+                  className="btn"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   GitHub
                 </a>
-                <a href={project.deploy} className="btn" target="_blank">
+                <a
+                  href={project.deploy}
+                  className="btn"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   Deploy
                 </a>
               </div>
