@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f9a41427.css",
-    "main.js": "/portfolio/static/js/main.1c8f34cc.js",
-    "static/media/CV.pdf": "/portfolio/static/media/CV.7f122bbd85189e920864.pdf",
+    "main.js": "/portfolio/static/js/main.31e53649.js",
+    "static/media/CV.pdf": "/portfolio/static/media/CV.ed9d5e21663554f6d9be.pdf",
     "static/media/profilePicture.png": "/portfolio/static/media/profilePicture.b9a77c96f3ad13eb664c.png",
+    "static/media/pokemonStatics.png": "/portfolio/static/media/pokemonStatics.aaf28fdc2700626e2d15.png",
     "static/media/landingFoodRecipes.jpg": "/portfolio/static/media/landingFoodRecipes.ceb3731929aa87795e1e.jpg",
     "static/media/spotifuLeonidasEsteban.jpg": "/portfolio/static/media/spotifuLeonidasEsteban.f23873956165c3f9497c.jpg",
     "static/media/inmobilApp.jpg": "/portfolio/static/media/inmobilApp.56605742d8f43220c09d.jpg",
@@ -15,10 +16,10 @@
     "static/media/calendarioGridLeonidasEsteban.jpg": "/portfolio/static/media/calendarioGridLeonidasEsteban.dcf1b5b73557a663fd1b.jpg",
     "index.html": "/portfolio/index.html",
     "main.f9a41427.css.map": "/portfolio/static/css/main.f9a41427.css.map",
-    "main.1c8f34cc.js.map": "/portfolio/static/js/main.1c8f34cc.js.map"
+    "main.31e53649.js.map": "/portfolio/static/js/main.31e53649.js.map"
   },
   "entrypoints": [
     "static/css/main.f9a41427.css",
-    "static/js/main.1c8f34cc.js"
+    "static/js/main.31e53649.js"
   ]
 }
